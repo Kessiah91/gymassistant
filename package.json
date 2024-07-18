@@ -2,7 +2,7 @@
   "name": "fitness_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kessiah91.github.io/gymassistant.git",
+  "homepage": "https://kessiah91.github.io/gymassistant",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
